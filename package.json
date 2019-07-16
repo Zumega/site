@@ -1,17 +1,18 @@
 {
   "name": "mine",
+  "homepage": "/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "axios": "0.19.0",
+    "moment": "2.24.0",
+    "npm-check-updates": "3.1.11",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "devDependencies": {
+    "node-sass": "4.12.0",
+    "react-scripts": "3.0.1"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -27,5 +28,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   }
 }

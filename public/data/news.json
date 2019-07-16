@@ -1,0 +1,302 @@
+[
+  {
+    "date": "2014-01-17",
+    "content": "So far so good, the new site build is coming along nicely, I have most of the [b]AngularJS[\/b] built out. Since the new design is almost non-existent I am keep it under wraps for now."
+  },
+  {
+    "date": "2013-12-10",
+    "content": "I am now not rebuilding the site in Backbone, I have move on to AngularJS. I am enjoying this much more. I am also working on a new design at the same time, so it's a slow process."
+  },
+  {
+    "date": "2013-03-13",
+    "content": "Time to learn some new tech. I have decided to learn Backbone. Right now I have nothing to show, but then again I just started. As I get more test projects running I will add links to them. The plan is to convert this whole site to Backbone. "
+  },
+  {
+    "date": "2013-01-24",
+    "content": "I have added a link to my GitHub [link (https:\/\/github.com\/zumega)]profile[\/link] under 'About'"
+  },
+  {
+    "date": "2013-01-08",
+    "content": "There is now public access to a test account in the [link (http:\/\/zyx77.dreamhosters.com\/sheet\/)]Serenity Character Sheet[\/link], feel free to mess around with it. Don't forget to sign out when you are done."
+  },
+  {
+    "date": "2013-01-03",
+    "content": "Add a secondary session id to the character sheet to prevent multi sign in."
+  },
+  {
+    "date": "2012-12-19",
+    "content": "I added a transitioning 'billboard' to 'Projects'"
+  },
+  {
+    "date": "2012-12-18",
+    "content": "I added to 'Projects' there is now a clock to look at. I originally made it in '07, now it has been brought back to life."
+  },
+  {
+    "date": "2012-12-17",
+    "content": "Added a 'More' button to the home page. Now the older site news can be viewed."
+  },
+  {
+    "date": "2012-12-14",
+    "content": "I have finally updated the site with a new design, HTML, CSS and PHP code. It's a little experimental for me but hey it works.[br][br]Also more to come once I get around to it."
+  },
+  {
+    "date": "2012-10-23",
+    "content": "The Serenity Character Sheet has been updated, everything should be working as intended. There is also a new sign in\/up process. Check it out [link (http:\/\/zyx77.dreamhosters.com\/sheet\/)]HERE[\/link]."
+  },
+  {
+    "date": "2012-08-27",
+    "content": "Hey finally updating the site! Now that I have some time to work on this there will be some major infrastructure changes coming in the next couple of days. Also I may do a new design."
+  },
+  {
+    "date": "2010-10-01",
+    "content": "I have been working on a new Serenity sheet. Thus a new database structure so I have deleted the old structure making the current page unusable."
+  },
+  {
+    "date": "2009-10-02",
+    "content": "I have finished creating a character sheet for Serenity. It is still in beta and doesn't have any checks for bad inputs but is saves and retrieves just fine. [link (.\/sheet\/index.php)]HERE[\/link] [gnome]"
+  },
+  {
+    "date": "2009-08-08",
+    "content": "Well if you can't tell the new site design is up and running. There are some new features to accompany the the design.<br \/><br \/>As always this is a site is under constant development, when I have time to work on it that is.  [smilie]<br \/><br \/>Good news everyone!! It's been three years since the fist posting about this site on this site. Thus meaning that today is the sites B-Day [happie]!!"
+  },
+  {
+    "date": "2009-08-06",
+    "content": "Well the new site design is almost done. I have to JavaScript to tweek before I release it to the world."
+  },
+  {
+    "date": "2009-08-04",
+    "content": "Working on a new design for the site. I'm on revision three, there will be more.  [gnome]"
+  },
+  {
+    "date": "2009-07-21",
+    "content": "I have a new light-box set up under images. But not all the images are ready to be brought out of beta, so still working on it. [happie]<br \/><br \/>Also added [q][color:red]BBCode[\/color][\/q] to this section! [winkie]<br \/><br \/>I have released the updates for the 'Images' sections. YEAH!!  [smilie] [gnome]<br \/><br \/>Updateing the images light-box affect broke the 'Work' section. Something else to fix now!!<br \/><br \/>Good it was an easy fix, the 'Work' section is working again."
+  },
+  {
+    "date": "2009-07-20",
+    "content": "Well the descriptions of the Illustrator section is done. But still not ready to be brought out of beta. I also had to remove the 'Drawing' section, then desided to remove the 'All' section too."
+  },
+  {
+    "date": "2009-07-13",
+    "content": "Added a descriptions area to the indavidual images in the 'Images' section. I'm not done inputting the descritions so there is nothing to see at the moment."
+  },
+  {
+    "date": "2009-07-10",
+    "content": "I have added some screen shots of work that I did working for <a href=\"http:\/\/clubspaces.com\/\" target=\"_blank\">Clubspaces<\/a> in the new menu option \"Work\". I may change the option later but for for it is what it is.<br \/><br \/>The back-end of the 'Image' section has been updated to us a database struture."
+  },
+  {
+    "date": "2009-07-08",
+    "content": "Updated the guest book: It's now on the main section instead of under 'Links' as 'Sign' and 'View'.<br \/><br \/>I have also updated the 'Sign' area, it now has some BBCode. So now you can add color, style, links, and images. Granted the colors, styles, and images are limited to what I have set up.<br \/><br \/>I still need to make a preview section but for now the 'Preview' button is really the submit button.<br \/><br \/>Updated the 'About' section. I removed what was there for now and replaced it with my resume."
+  },
+  {
+    "date": "2009-07-06",
+    "content": "Just updated the guest book to take advantage of the database. There will be more updates to come. I have still to add the my BBCode (Bill Board Code). This will allow for formatting and other cool stuff."
+  },
+  {
+    "date": "2009-05-19",
+    "content": "Updated all the old \"News\"... YEAH!! Now it's time to take it out of beta."
+  },
+  {
+    "date": "2009-05-15",
+    "content": "Finished making the code to store and retrieve the \"News\", what you are reading now, in to a data base.<br \/><br \/>Also started to add the current\/past entries."
+  },
+  {
+    "date": "2009-02-26",
+    "content": "I have added to the \"Movies\" section... Though for some reason I can not get the movies to play on my laptop (FF3 WinXP). This is something I will have to work on. Later ;D"
+  },
+  {
+    "date": "2009-02-25",
+    "content": "Something small, I have updated the thumbnail frame for the default skin."
+  },
+  {
+    "date": "2009-02-22",
+    "content": "Update: Added a guest book. It can be found under links at the bottom. Please view\/sign my guest book!!"
+  },
+  {
+    "date": "2009-02-20",
+    "content": "This is updated by a web interface instead of making the changes manually and then uploading them... YEAH!!"
+  },
+  {
+    "date": "2009-02-03",
+    "content": "I have updated \"Photos\". There is now a Flash slide show from <a href=\"http:\/\/www.flickr.com\" target=\"_blank\">Flickr<\/a> it's nice but not what I want as a final page, but it works for now."
+  },
+  {
+    "date": "2009-01-30",
+    "content": "Reworked the way \"Books\" works along with adding to \"Misc\".<br \/><br \/>Updated \"Misc\". Now it contains the switch for the skins. The select box in the menu just looked tacky. Now I can make a thumb nail view, but that will have to come later."
+  },
+  {
+    "date": "2009-01-29",
+    "content": "Updated some color issues with the second skin \"Dark\"."
+  },
+  {
+    "date": "2009-01-22",
+    "content": "A couple of updates:<br><ol>\r\n  <li>Tried to get the sub menu to animate and keep its state as need be. I haven't figured it out yet so the menu is simple.<\/li>\r\n  <li>Updated\/added books to the \"Books\" section. There is more to ad but this is a start.<\/li>\r\n  <li>I was working on getting my Digital\/Analog clock up but forget I was working on it and copied over the files. Not a big loss I was really messed up. Will work on adding it later.<\/li>\r\n  <li>I have added a style selector. So far there is only one extra but that will change with time.<\/li>\r\n<\/ol>\r\n"
+  },
+  {
+    "date": "2009-01-13",
+    "content": "\"The LightBox\" effect is up and running for the images section... Still some tweaking to do."
+  },
+  {
+    "date": "2009-01-11",
+    "content": "Got the menu working, so when you are on a page the link to that page is not accessible."
+  },
+  {
+    "date": "2009-01-09",
+    "content": "\"Calculator\" now works. Also added\/fixed \"Letter Finder\", \"Lunch Picker\", \"Word Converter\", &amp; \"Marquee\". There seems to be a problem with the timing for \"Lunch Picker\" and \"Marquee\". I will have to look into that."
+  },
+  {
+    "date": "2009-01-08",
+    "content": "Set up the \"Calculator\"."
+  },
+  {
+    "date": "2009-01-06",
+    "content": "Level 1 navigation done. Though now I have a lot of blank \"Coming Soon\" pages."
+  },
+  {
+    "date": "2009-01-05",
+    "content": "Converting site to PHP... still a lot of work to do."
+  },
+  {
+    "date": "2008-12-10",
+    "content": "Another small update, but nothing special. Still in BETA."
+  },
+  {
+    "date": "2008-09-02",
+    "content": "This is a small update. I changed the word converter, the part about reversing a string, I have condensed the code to one line of code instead of 5."
+  },
+  {
+    "date": "2008-07-30",
+    "content": "Another random creation under \"Misc\". I have added a scroller\/marquee that I created with JavaScript."
+  },
+  {
+    "date": "2008-07-24",
+    "content": "I have finished reworking \"Calculator\", \"Letter Finder\", \"Lunch Picker\", &amp; \"Word Converter\". These can be found under \"Misc\". Also working on a new host thanks to Jeremy, still working on moving over the domain (blatheringblatherskite)."
+  },
+  {
+    "date": "2008-07-15",
+    "content": "Have reworked the \"Calculator\" and the \"Lunch Picker\". The \"Lunch Picker\" is now, more or less just, a picker. You can really use it for any thing that needs to be picked randomly, although the wordage is still for food."
+  },
+  {
+    "date": "2008-06-05",
+    "content": "Currently working on new UI. Though it's still not accessible to the world. All old news from the original UI are below."
+  },
+  {
+    "date": "2008-06-01",
+    "content": "Working on a new UI... will be up soon."
+  },
+  {
+    "date": "2008-03-09",
+    "content": "Updated the main page, added some more\/new CSS and cleaned up the menu system. I reworked the JS it's much cleaner and runs a lot smoother.<br \/><br \/>Update HTML to xHTML Strict on this page, I haven't touched the inner pages, yet.<br \/><br \/>Updated the Digital\/Analog clock. The call for the month was wrong. Also now the page is xHTML compliant."
+  },
+  {
+    "date": "2007-06-08",
+    "content": "I have added an analog\/digital clock to the main page."
+  },
+  {
+    "date": "2007-06-04",
+    "content": "Now this sections is also table-less.<br \/><br \/>Updated the \"About\" - \"Me\" section. The new stuff is highlighted."
+  },
+  {
+    "date": "2007-06-03",
+    "content": "Redid the main body (above). It is now table-less design. I know that doesn't mean much to most but the file smaller and runs faster.<br \/><br \/>Also redid the JavaScript's, I optimized the code. Now it's much easier to update."
+  },
+  {
+    "date": "2007-06-01",
+    "content": "Added a new image to the Photoshop section of \"IMAGES\". It can also be seen in \"All Images\". I bet you didn't know I was on the hundred thousand dollar bill.<br \/><br \/>Fixed the guest book. "
+  },
+  {
+    "date": "2007-05-31",
+    "content": "Trying to get a guest book working... it's provided by my server.<br \/><br \/>Please sign the guest book it's under \"BOOK\". There is an error on the redirect after signing, please use your back button for return to this main page then use the menu to view yours and others entries. If anything doesn't load try refreshing."
+  },
+  {
+    "date": "2007-05-27",
+    "content": "Added another game, \"TIC-TAC-TOE\", it can be found under the \"MISC\" section for now.<br \/><br \/>I have also updated \"TIC-TAC-TOE\" there is now a 2 player mode."
+  },
+  {
+    "date": "2007-05-26",
+    "content": "Added a \"HangMan\" game, it can be found under the \"MISC\" section for now."
+  },
+  {
+    "date": "2007-05-17",
+    "content": "Added to \"LINKS\" a link to a web site based off a \"choose your own path\" story. I call it \"Endless Story\"."
+  },
+  {
+    "date": "2007-05-12",
+    "content": "Added a \"MISC\" section, and moved stuff from \"LINKS\" to there. I think it's a little more appropriate that way."
+  },
+  {
+    "date": "2007-05-07",
+    "content": "Added a link to \"Ink Well\", a site I'm working on."
+  },
+  {
+    "date": "2007-05-05",
+    "content": "Added a U.I., under \"LINKS\", that I haven't used but I like that way it looks."
+  },
+  {
+    "date": "2007-04-01",
+    "content": "Added to the \"ABOUT\" section, added my Resume."
+  },
+  {
+    "date": "2007-03-19",
+    "content": "Added an \"ABOUT\" section, so far it's all about me."
+  },
+  {
+    "date": "2007-03-16",
+    "content": "Menu system updated a little, now you can click an open menu item and have it close. Where before once a menu item was open it was always open.<br \/><br \/>Added a penguin to the images sections."
+  },
+  {
+    "date": "2007-03-10",
+    "content": "Added a little to the head graphic, top-right corner."
+  },
+  {
+    "date": "2007-03-09",
+    "content": "Added two new images in the \"IMAGES\" sections.<br \/><br \/>Updated the size of the images, on some screens the images got cut off a little."
+  },
+  {
+    "date": "2007-02-22",
+    "content": "WOW... Movies.<br \/><br \/>Updated the menu, you have to click now to open up the sub-menu."
+  },
+  {
+    "date": "2007-02-15",
+    "content": "Finally added some images to the \"IMAGES\" section."
+  },
+  {
+    "date": "2007-02-14",
+    "content": "Removed the link for \"L.C.T.\". (they got a new site)"
+  },
+  {
+    "date": "2007-01-26",
+    "content": "Ok so it's been a while, I have updated some of the code to be cleaner.<br \/><br \/>\r\nAdded an \"About\" on the all the pages except for \"Dos Goo!\" and \"L.C.T.\"<br \/><br \/>I have updated the \"Lunch Picker\" to \"Food Picker\" and to have local (Alameda CA) restaurants."
+  },
+  {
+    "date": "2006-10-28",
+    "content": "WOW a Calculator."
+  },
+  {
+    "date": "2006-09-26",
+    "content": "Added two new links to the \"LINKS\" menu: \"Lunch Picker\" and \"L.C.T.\""
+  },
+  {
+    "date": "2006-09-21",
+    "content": "Added some more DHTML, pretty neat."
+  },
+  {
+    "date": "2006-09-20",
+    "content": "Updated menu, added some graphics, I like graphics. Also threw in some DHTML."
+  },
+  {
+    "date": "2006-09-17",
+    "content": "Miner table structure update, this will be used in future updates."
+  },
+  {
+    "date": "2006-09-13",
+    "content": "Updated from the plain old \"Text Only\" site to having a graphical header."
+  },
+  {
+    "date": "2006-08-18",
+    "content": "Added some links to dingy little pages that I have been playing with."
+  },
+  {
+    "date": "2006-08-08",
+    "content": "This is just a start, I will be adding more links and features and graphics as time passes."
+  }
+]
